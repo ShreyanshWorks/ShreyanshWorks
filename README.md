@@ -1,4 +1,4 @@
-## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
 
 
 I’m Shreyansh Sinha, an aspiring data analyst based in India. Highly motivated, teamwork-oriented <br>
